@@ -78,7 +78,7 @@ fn main() -> Result<(), ArrowError> {
 
     if opts.print_schema || opts.dry {
         let json = to_string_pretty(&schema.to_json())?;
-        eprintln!("Schema:\n{}", json);
+        eprintln!("Schema:");
         println!("{}", json);
         if opts.dry {
             return Ok(());
