@@ -1,5 +1,7 @@
 # JSON to Arrow
 
+**This repo is archived and the code moved to [Arrow CLI Tools](https://github.com/domoritz/arrow-tools).**
+
 [![Crates.io](https://img.shields.io/crates/v/json2arrow.svg)](https://crates.io/crates/json2arrow)
 [![Rust](https://github.com/domoritz/json2arrow/actions/workflows/rust.yml/badge.svg)](https://github.com/domoritz/json2arrow/actions/workflows/rust.yml)
 
